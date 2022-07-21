@@ -1,0 +1,1 @@
+For docker you need docker somehow. I've written blogs on how to set it up in WSL, or you can use Docker Desktop.
